@@ -19,6 +19,8 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![API](https://img.shields.io/badge/API-FF6C37?logo=fastapi&logoColor=white&labelColor=black)
- 
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white&style=for-the-badge)
+
 <br>
  
