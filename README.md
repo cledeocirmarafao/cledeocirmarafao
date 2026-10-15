@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![Cledeocir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CledeocirMarafao&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=6EA8FE&ring_color=00D4FF)
+![Cledeocir's GitHub Stats](https://github-readme-stats-rho-topaz.vercel.app/api?username=CledeocirMarafao&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=6EA8FE&ring_color=00D4FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CledeocirMarafao&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=6EA8FE)
+![Top Languages](https://github-readme-stats-rho-topaz.vercel.app/api/top-langs/?username=CledeocirMarafao&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=6EA8FE)
 
 </div>
 </div>
@@ -70,7 +70,7 @@ Estou em constante evolução, aprofundando conhecimentos em arquitetura de soft
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy-kappa-lime.vercel.app/?username=cledeocirmarafao&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
+![Trophy](https://github-profile-trophy-sage-six.vercel.app/?username=cledeocirmarafao&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
 
 </div>
 
@@ -80,7 +80,7 @@ Estou em constante evolução, aprofundando conhecimentos em arquitetura de soft
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cledeocirmarafao&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph-wheat-nine.vercel.app/graph?username=cledeocirmarafao&bg_color=0d1117&color=2f80ed&line=2f80ed&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -90,10 +90,8 @@ Estou em constante evolução, aprofundando conhecimentos em arquitetura de soft
 
 ✦ Obrigado pela visita! Se curtiu algo, deixa uma ⭐ ✦
 
-![Visitor Count](https://komarev.com/ghpvc/?username=cledeocirmarafao&color=00d9ff&style=for-the-badge&label=VISITANTES)
+![Visitor Count](https://komarev.com/ghpvc/?username=cledeocirmarafao&color=2f80ed&style=for-the-badge&label=VISITANTES)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2f80ed&height=70&section=footer"/>
 
 </div>
