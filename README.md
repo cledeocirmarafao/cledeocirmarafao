@@ -6,11 +6,12 @@
 
 </div>
 
- <div>
-   <a href="https://github.com/cledeocirmarafao">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cledeocirmarafao&layout=compact&langs_count=7&theme=blue-green" alt="Top Linguagens" title="As linguagens mais usadas nos meus projetos" />
+<div align="center">
 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cledeocirmarafao&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" title="Minhas estatísticas e contribuições no GitHub" />
+![Cledeocir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CledeocirMarafao&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=6EA8FE&ring_color=00D4FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CledeocirMarafao&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=6EA8FE)
+
 </div>
 </div>
 
@@ -69,7 +70,7 @@ Estou em constante evolução, aprofundando conhecimentos em arquitetura de soft
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=cledeocirmarafao&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
+![Trophy](https://github-profile-trophy-kappa-lime.vercel.app/?username=cledeocirmarafao&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
 
 </div>
 
