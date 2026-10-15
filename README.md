@@ -17,44 +17,38 @@
 
 ---
 
-## 👾 Sobre mim
+## 👋 Sobre mim
 
-Olá! Meu nome é Cledeocir Marafão! Sou pai de duas meninas e, após a perda funcional do meu braço direito (CID G54.0) em um acidente automobilístico, encontrei no desenvolvimento de software uma forma poderosa de reconstruir meu caminho.
+Olá! Sou o **Cledeocir Marafão**, desenvolvedor Full Stack de Florianópolis e pai de duas meninas.
 
-Hoje me especializo no ecossistema JavaScript (React, Node.js e TypeScript). Enquanto isso, aprofundo meus conhecimentos em renderizações 3D, Next.js, Prisma, Docker, integrações e automações com IA e N8n, consolidando minha formação em FullStack.
+Depois de um acidente automobilístico que me fez perder a função do braço direito, encontrei no desenvolvimento de software uma forma de reconstruir meu caminho. Hoje transformo essa determinação em código.
 
-Estou em constante evolução, aprofundando conhecimentos em arquitetura de software e práticas de DevOps. Disponível para projetos freelance, oportunidades full-time em Florianópolis ou remoto.
+### 🚀 O que eu faço
+- Aplicações web completas com **React, Node.js e TypeScript**
+- APIs com **Express, Prisma e PostgreSQL**
+- Testes com **Vitest e Jest** e ambientes com **Docker**
+
+### 🔭 Estudando agora
+- Next.js e renderização 3D
+- Arquitetura de software e boas práticas de DevOps
+- Integrações e automações com IA e n8n
+- Uso de IA para acelerar implementações, do planejamento à entrega 
+- Desenvolvimento acelerado com **IA**, sem abrir mão de revisão e qualidade do código
+
+### 💼 Disponível para
+Projetos freelance e oportunidades full-time, em **Florianópolis presencial/híbrido ou remoto**.
 
 ---
 
+<br/>
+
 ## 🛠️ Stack Tecnológica
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Testes & Ferramentas
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-### Backend & Banco de Dados
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 3D & Creative
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,prisma,postgres,nextjs,docker,git,tailwind,vitest,jest" height="48" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" title="n8n" />
+  <img src="https://img.shields.io/badge/IA-2F80ED?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="IA" title="Inteligência Artificial" />
+</p>
 
 ---
 
